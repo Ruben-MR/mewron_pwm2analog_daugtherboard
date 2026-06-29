@@ -1,0 +1,14 @@
+,,,,,,, ,,
+,Item #,Designator,Quantity,Manufacturer,Mfg Part #,Description / Link,Package / footprint,Type,Instructions / Notes
+,1,J1,1,Molex,22112052,https://www.digikey.ch/de/products/detail/molex/0022112052/172027?s=N4IgTCBcDaIOoFkwHYAMBmAtAOQCIgF0BfIA,Connector_Molex:Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical,Thru-hole,
+,2,"J2, J3, J12",3,Molex,22232021,https://www.digikey.ch/en/products/detail/molex/0022232021/26667?s=N4IgTCBcDa5mBmMAGMBGEBdAvkA,Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,Thru-hole,
+,3,J4,1,On Shore Technology Inc.,OSTTE040104,https://www.digikey.ch/en/products/detail/on-shore-technology-inc/OSTTE040104/2351818?s=N4IgTCBcDaIPIGUAqSCiAGALOgjFkAugL5A,TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal,Thru-hole,
+,4,JP1,N.A.,N.A.,N.A.,N.A.,N.A.,DNS/DNP,Not required for assembly
+,5,"C1,C2,C3,C4",4,Vishay Beyschlag,K104K15X7RF5TL2,https://www.digikey.ch/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K15X7RF5TL2/286538?s=N4IgTCBcDaINIEYAMAWRBWAGgdgEoDF0AVAGQgF0BfIA,Capacitor_THT:C_Rect_L4.0mm_W2.5mm_P2.50mm,Thru-hole,
+,6,U1,1,Texas Instruments,LMC6484IMX/NOPB,https://www.digikey.ch/en/products/detail/texas-instruments/LMC6484AIMX-NOPB/334870,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,SMD,
+,7,U2,1,Analog Devices Inc.,LTC2644CMS-L12#PBF ,https://www.digikey.ch/en/products/detail/analog-devices-inc/LTC2644CMS-L12-PBF/4964730?s=N4IgTCBcDaIDIBUDCYBsAWdSCyBlAtHAIxgDEACgEIBiABCALoC%2BQA,Package_SO:MSOP-12_3x4.039mm_P0.65mm,SMD,
+,8,SW1,1,Nidec Components,CSS-1310TB,https://www.digikey.ch/en/products/detail/nidec-components/CSS-1310TB/1124215?s=N4IgTCBcDaIMIGUEFoCMBmVAGAKgIRAF0BfIA,CSS-1310TB:JSM07011,SMD,
+,9,R1,1,TE Connectivity Passive Product,YR1B66K2CC,https://www.digikey.ch/en/products/detail/te-connectivity-passive-product/YR1B33K2CC/2390834,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Thru-hole,
+,10,R2,1,TE Connectivity Passive Product,YR1B33K5CC,https://www.digikey.ch/en/products/detail/te-connectivity-passive-product/YR1B66K5CC/2390918,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Thru-hole,
+,11,"R3,R4",2,TE Connectivity Passive Product,YR1B10KCC,https://www.digikey.ch/en/products/detail/te-connectivity-passive-product/YR1B10KCC/2389737?s=N4IgTCBcDaIJoCUCMAhJAGA0gYWyAugL5A,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,Thru-hole,
+,,,,,,, ,,

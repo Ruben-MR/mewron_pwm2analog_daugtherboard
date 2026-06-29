@@ -1,0 +1,18 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+131.826,-84.836,-90.0,top,C1,,,C_Rect_L4.0mm_W2.5mm_P2.50mm,0.1uF,tht
+132.334,-91.44,180.0,top,C2,,,C_Rect_L4.0mm_W2.5mm_P2.50mm,0.1uF,tht
+134.513,-84.963,0.0,top,C3,,,C_Rect_L4.0mm_W2.5mm_P2.50mm,0.1uF,tht
+133.35,-96.413,-90.0,top,C4,,,C_Rect_L4.0mm_W2.5mm_P2.50mm,0.1uF,tht
+131.826,-80.01,0.0,top,J1,,,Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical,Duet_GPIO,tht
+146.025,-80.02,0.0,top,J12,,,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,24V_IN,tht
+129.794,-96.52,180.0,top,J2,,,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,Conn_12V,tht
+163.302,-95.758,-90.0,top,J3,,,Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical,Out_fdbk,tht
+162.7925,-80.602,-90.0,top,J4,,,TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal,P_reg,tht
+155.448,-81.28,180.0,top,JP1,,,PinHeader_1x02_P2.54mm_Vertical,Jumper_2_Open,tht
+144.018,-98.425,180.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,33.2k,tht
+136.398,-95.123,0.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,66.5k,tht
+148.082,-87.63,0.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+148.082,-90.678,0.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+151.892,-93.92175,0.0,top,SW1,,,JSM07011,SW_SP3T,smt
+142.367,-88.138,0.0,top,U1,,,SOIC-14_3.9x8.7mm_P1.27mm,LMC6484,smt
+135.89,-89.789,90.0,top,U2,,MSOP-12 Analog Devices,MSOP-12_3x4.039mm_P0.65mm,LTC2644HMS-L12_PBF,smt
