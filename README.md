@@ -31,7 +31,7 @@ The design is fully open-source and built using **KiCad 9.0**, making it accessi
 
 ## 🖼️ Preview
 
-[image](images/duet_dac.png)
+![image](images/duet_dac.png)
 
 ---
 
@@ -90,7 +90,7 @@ You can find it in the `/bom/` directory.
 
 This board is designed to interface directly with Duet motherboards. Taking as an example the integration the connection with a Duet 3 Mini and an SMC 1050 pressure regulator, the wiring should be performed as shown in the diagram below.
 
-[image](images/connection_diagram.png)
+![image](images/connection_diagram.png)
 
 Once connected, the GPIO should be configured manually, or upon printer initialization by adding the following lines to the config.h file of the printer (modify the port number as needed, as well as the port name to match your GPIO).
 
